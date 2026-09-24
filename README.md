@@ -10,6 +10,8 @@ The dataset contains approximately 25,000 ranked matches and over 240,000 game f
 
 Several machine learning approaches were implemented and compared, including logistic regression, support vector machines (SVM), and neural networks.
 
+Data courtesy of Y. L. Ma, “League of legends solo-Q ranked games,” Kaggle, https://www.kaggle.com/datasets/bobbyscience/league-of-legends-soloq-ranked-games (accessed Nov. 19, 2024).
+
 ## Results
 
 - 83% accuracy
